@@ -1,0 +1,187 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(./image/image2.png);
+    background-size: cover;
+    background-blend-mode: color-burn;
+}
+
+.main {
+    background-color: rgb(39, 38, 38);
+    color: white;
+    display: flex;
+    list-style: none;
+}
+
+.one {
+    margin-left: 70px;
+    font-size: 170%;
+    border-radius: 10px;
+    text-decoration: underline solid rgb(6, 205, 255);
+
+}
+
+.one:hover {
+    background-color: rgb(84, 87, 87);
+    font-size: 40px;
+}
+
+.two {
+    margin-left: 40px;
+    font-size: 150%;
+    border-radius: 10px;
+    text-decoration: underline solid rgb(6, 205, 255);
+    ;
+}
+
+.two:hover {
+    background-color: rgb(84, 87, 87);
+    font-size: 40px;
+}
+
+.three {
+    margin-left: 40px;
+    font-size: 150%;
+    border-radius: 10px;
+    text-decoration: underline solid rgb(6, 205, 255);
+    ;
+}
+
+.three:hover {
+    background-color: rgb(84, 87, 87);
+    font-size: 40px;
+}
+
+.four {
+    margin-left: 40px;
+    font-size: 150%;
+    border-radius: 15px;
+    text-decoration: underline solid rgb(6, 205, 255);
+    ;
+}
+
+.four:hover {
+    background-color: rgb(84, 87, 87);
+    font-size: 40px;
+}
+
+.five {
+    margin-left: 40px;
+    font-size: 150%;
+    border-radius: 10px;
+    text-decoration: underline solid rgb(6, 205, 255);
+    ;
+}
+
+.five:hover {
+    background-color: rgb(84, 87, 87);
+    font-size: 40px;
+}
+
+.six {
+    margin-left: 40px;
+    margin-right: 280px;
+    font-size: 150%;
+    border-radius: 10px;
+    text-decoration: underline solid rgb(6, 205, 255);
+    ;
+
+}
+
+.six:hover {
+    background-color: rgb(84, 87, 87);
+    font-size: 40px;
+}
+
+input {
+    border-radius: 10px;
+}
+
+.seven {
+    background-color: red;
+    border-radius: 10px;
+
+
+}
+
+.first {
+    background-color: black;
+    color: white;
+    width: 25%;
+    height: 70vh;
+    margin-top: 30px;
+    margin-left: 50px;
+    border: 5px;
+    border-radius: 30px;
+    border-style: double;
+    text-align: center;
+    list-style: none;
+
+
+}
+
+.eight {
+    font-size: 40px;
+    margin-top: 40px;
+    background-color: rgb(41, 38, 38);
+
+}
+
+.nine {
+    font-size: 25px;
+    margin-top: 40px;
+    text-align: center;
+
+}
+
+.nine:hover {
+    font-size: 40px;
+}
+
+.ten {
+    font-size: 25px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.ten:hover {
+    font-size: 40px;
+}
+
+.eleven {
+    font-size: 25px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.eleven:hover {
+    font-size: 40px;
+}
+
+.twelve {
+    font-size: 25px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.twelve:hover {
+    font-size: 40px;
+}
+
+.thirteen {
+    font-size: 25px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.thirteen:hover {
+    font-size: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
